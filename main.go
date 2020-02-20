@@ -46,7 +46,6 @@ const mode = "webvpn"
 func main() {
 	// cookie,mayValid := isCookieValid() //这段代码是检查cookie的,意义不大,直接请求新cookie就行
 
-
 	urlLists.init(mode)
 	var client *http.Client
 	var cnt int = 1
@@ -94,5 +93,14 @@ func main() {
 	// }else{
 	// 	log.Println(teacherInfo , err)
 	// }
+
+	// 抢课:
+	// var (
+	// 	classId      = "1111"
+	// 	timeSeperate = 10
+	// )
+	// courseListConstructer := DefaulyCourseListPayload()
+	// payloadStruct := courseListConstructer(1, 10, "2019-2", "4", "11")
+	// grabCourse(client, payloadStruct, classId, timeSeperate)
 
 }
