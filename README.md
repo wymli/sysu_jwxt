@@ -1,5 +1,7 @@
 # sysu_jwxt
-written by go
+// deprecated
+Moved to https://github.com/STrelitziAaaa/sysu_jwxt_v2
+<!-- written by go
 
 ---
 依赖:  
@@ -52,4 +54,4 @@ written by go
 ---
 
 * 注意的是尽量不要用windows记事本编辑配置文件, 避免出现奇奇怪怪的bug!
-
+ -->
