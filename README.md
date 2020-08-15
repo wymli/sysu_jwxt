@@ -1,5 +1,5 @@
 # sysu_jwxt
-// deprecated
+// deprecated  
 Moved to https://github.com/STrelitziAaaa/sysu_jwxt_v2
 <!-- written by go
 
